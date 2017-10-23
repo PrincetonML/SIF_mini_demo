@@ -19,7 +19,7 @@ To get started, cd into the directory examples/ and run demo.sh. It downloads th
 ## Source code
 The code is separated into the following parts:
 * SIF_embedding.py: implements the SIF embedding. The SIF weighting scheme is very simple and is implmented in a few lines.
-* data_io.py: provide the function for loading data.
+* data_io.py: provides the function for loading data.
 * utilities: includes params.py, and tree.py. These provides utility data structure for the above.
 
 ## References
