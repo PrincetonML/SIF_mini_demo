@@ -28,7 +28,7 @@ For technical details and full experimental results, see [the paper](https://ope
 @article{arora2017asimple, 
 	author = {Sanjeev Arora and Yingyu Liang and Tengyu Ma}, 
 	title = {A Simple but Tough-to-Beat Baseline for Sentence Embeddings}, 
-	proceedings = {International Conference on Learning Representations},
+	booktitle = {International Conference on Learning Representations},
 	year = {2017}
 }
 ```
