@@ -1,6 +1,6 @@
 # SIF
 
-This is a minimum example for the sentence embedding algorithm in [the paper](https://openreview.net/forum?id=SyK00v5xx) "A Simple but Tough-to-Beat Baseline for Sentence Embeddings". The full set of code for the experiments in that paper is [here](https://github.com/PrincetonML/SIF).
+This is a minimum example for the sentence embedding algorithm in [the paper](https://openreview.net/forum?id=SyK00v5xx) "A Simple but Tough-to-Beat Baseline for Sentence Embeddings". This example is good for those who would like to try SIF embeddings. If one would like to check the experiments in the paper, please see the full set of code [here](https://github.com/PrincetonML/SIF).
 
 The code is written in python and requires numpy, scipy, pickle, and sklearn.
 
