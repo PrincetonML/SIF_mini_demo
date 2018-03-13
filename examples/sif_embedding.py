@@ -3,7 +3,7 @@ sys.path.append('../src')
 import data_io, params, SIF_embedding
 
 # input
-wordfile = '../data/glove.840B.300d.1-50000.txt' # word vector file, can be downloaded from GloVe website
+wordfile = '../data/glove.840B.300d.txt' # word vector file, can be downloaded from GloVe website; it's quite large but you can truncate it and use only say the top 50000 word vectors to save time
 weightfile = '../auxiliary_data/enwiki_vocab_min200.txt' # each line is a word and its frequency
 weightpara = 1e-3 # the parameter in the SIF weighting scheme, usually in the range [3e-5, 3e-3]
 rmpc = 1 # number of principal components to remove in SIF weighting scheme
